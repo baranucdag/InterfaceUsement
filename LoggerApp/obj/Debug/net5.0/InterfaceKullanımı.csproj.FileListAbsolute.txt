@@ -1,0 +1,16 @@
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\bin\Debug\net5.0\InterfaceKullanımı.exe
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\bin\Debug\net5.0\InterfaceKullanımı.deps.json
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\bin\Debug\net5.0\InterfaceKullanımı.runtimeconfig.json
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\bin\Debug\net5.0\InterfaceKullanımı.runtimeconfig.dev.json
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\bin\Debug\net5.0\InterfaceKullanımı.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\bin\Debug\net5.0\ref\InterfaceKullanımı.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\bin\Debug\net5.0\InterfaceKullanımı.pdb
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.csprojAssemblyReference.cache
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.AssemblyInfoInputs.cache
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.AssemblyInfo.cs
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\ref\InterfaceKullanımı.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.pdb
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\InterfaceKullanımı\obj\Debug\net5.0\InterfaceKullanımı.genruntimeconfig.cache

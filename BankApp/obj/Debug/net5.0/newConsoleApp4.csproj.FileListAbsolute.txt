@@ -1,0 +1,16 @@
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\bin\Debug\net5.0\newConsoleApp4.exe
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\bin\Debug\net5.0\newConsoleApp4.deps.json
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\bin\Debug\net5.0\newConsoleApp4.runtimeconfig.json
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\bin\Debug\net5.0\newConsoleApp4.runtimeconfig.dev.json
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\bin\Debug\net5.0\newConsoleApp4.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\bin\Debug\net5.0\ref\newConsoleApp4.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\bin\Debug\net5.0\newConsoleApp4.pdb
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.csprojAssemblyReference.cache
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.AssemblyInfo.cs
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\ref\newConsoleApp4.dll
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.pdb
+C:\Users\90544\source\repos\newconsoleapp4\newConsoleApp4\newConsoleApp4\obj\Debug\net5.0\newConsoleApp4.genruntimeconfig.cache
